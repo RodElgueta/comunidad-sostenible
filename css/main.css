@@ -1,0 +1,49 @@
+/* Inserta tu codigo aqui */
+.navigation{display: inline-block;margin-left: 10px;
+color: silver;
+font-family: opensans-bold;}
+.logo{display: inline-block;
+    width: 100px;
+    margin-left: 80px;
+    margin-right: 170px;
+margin-bottom: 15px;}
+.navigation>li{display: inline-block;
+margin-left: 10px;}
+li>span{margin-right: 10px;}
+.semilla{width: 100%;
+height: 400px;
+background-image: url('../img/semilla.jpg')}
+.about{margin:20px 125px 40px 125px;
+text-align: center;
+font-weight: 600;}
+.mision{display:block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;}
+.vision{display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;}
+.background{
+    display: inline-block;
+    width:100%;
+    height: 98.1%;}
+.photos{padding: 0;}
+.greenbackground{background-image: url('../img/fondo.jpg');
+width: 100%;
+height:100%;}
+.greenbackground>h4{vertical-align:middle; margin-bottom: 40px;}
+.greenbackground>p{margin:10px 90px 125px }
+.metodicon{margin: 70px 0px 40px 300px;}
+.charla{background-image: url('../img/metodo.JPG');
+width: 100%;
+height: 100%;}
+.servicios>div>img{margin-left: 90px;
+margin-top: 30px;}
+.proyecto1{background-image: url('../img/fotos/img-0352.JPG');
+width: 100%;
+height: 100%;}
+.proyecto2{background-image: url('../img/fotos/img-0352.JPG');
+    width: 100%;
+    height: 100%;}
+    .servicios>div>h5{color: #5E8039;}
