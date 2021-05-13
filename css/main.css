@@ -46,4 +46,7 @@ height: 100%;}
 .proyecto2{background-image: url('../img/fotos/img-0352.JPG');
     width: 100%;
     height: 100%;}
-    .servicios>div>h5{color: #5E8039;}
+.servicios>div>h5{color: #5E8039;}
+.redes{width:50px;}
+.redes1{width:50px;
+margin-left: 60px;}
